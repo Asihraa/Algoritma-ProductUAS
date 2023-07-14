@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsonviewer.json">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jsonviewer.json.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../json-20220924.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../jsonviewer.json.zip!/" recursive="false" />
+  </library>
+</component>
